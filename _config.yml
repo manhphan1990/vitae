@@ -14,23 +14,23 @@ author: Fábio Madeira
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://jekyller.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+title: Manh Phan's Resume
+name: Manh Phan
+email: kevinphan90@gmail.com
+email_full: mailto:kevinphan90@gmail.com
+website: manhphan1990.github.io
+website_full: https://github.com/manhphan1990
+github: https://github.com/manhphan1990
+linkedin: https://www.linkedin.com/in/manh-phan-b1779b84/
+tel: +358 453290419
+tel_full: tel:+358453290419
+google_maps: 'https://www.google.com/maps/place/Soittajantie+3,+00420+Helsinki/@60.2417225,24.8743424,17z/data=!3m1!4b1!4m5!3m4!1s0x468df7820b4a6dd9:0xb00edb9bfc5974af!8m2!3d60.2417225!4d24.8765311'
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
-google_analytics: UA-69300817-1
+  street: Soittajantie 3T 138
+  postcode: 00420
+  city: Helsinki
+  country: Finland
+
 
 # needed for travis-ci build
 exclude: [vendor]
